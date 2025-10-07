@@ -9,7 +9,7 @@ Front-End Developer passionate about building modern, responsive, and user-frien
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/> 
 🧠 About Me
 
-🔭 I'm currently working on projects using HTML / JS / CSS.
+🔭 I'm currently working on projects using HTML / JAVASCRIPT / CSS.
 
 💡 I'm looking for opportunities to collaborate on Front-End or UI/UX projects.
 
