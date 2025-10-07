@@ -6,7 +6,7 @@
 
 Front-End Developer passionate about building modern, responsive, and user-friendly web applications. Skilled in HTML, CSS, JavaScript, React, and modern frameworks, with a strong focus on UI/UX design and performance optimization.
 <br/> <br/> <br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/> 
 🧠 About Me
 
 🔭 I'm currently working on projects using HTML / JS / CSS.
