@@ -1,6 +1,6 @@
  EYAD ALAMRI | Front-End Developer
 
-<a href='https://www.linkedin.com/in/eyad-alamri/](https://www.linkedin.com/in/eyad-alamri-20374836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/eyad-alamri-20374836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br/>
 
